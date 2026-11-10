@@ -1,10 +1,10 @@
-// #include "LCDDisplay.h" 
-// #include "ButtonHandler.h" 
-// #include "EEPROMHandler.h" 
+#include "LCDDisplay.h" 
+#include "ButtonHandler.h" 
+#include "EEPROMHandler.h" 
 #include "TempHumiditySensor.h" 
-// #include "RelayControl.h" 
-// #include "Timer.h" 
-// #include "WaterLevelSensor.h" 
+#include "RelayControl.h" 
+#include "Timer.h" 
+#include "WaterLevelSensor.h" 
 #include "GyroscopeHandler.h" 
 // Thresholds and constants 
 const float thresholdTemp = 37.5; 
