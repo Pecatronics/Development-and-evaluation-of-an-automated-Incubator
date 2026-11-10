@@ -1,2 +1,2 @@
 # Automated-Incubator
-To achieve stablle temperature and humidity per time
+To achieve stable temperature and humidity per time
